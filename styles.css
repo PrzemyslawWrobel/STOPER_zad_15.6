@@ -1,0 +1,30 @@
+body {
+	background: rgb(5, 14, 139);
+	padding: 30px;
+}
+
+.button {
+	padding: 5px 15px;
+	background: rgb(247, 246, 246);
+	margin: 10px;
+	color: rgb(3, 7, 61);
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: 700;
+	border: 1px solid rgb(3, 7, 61);
+}
+
+.button:hover {
+	background: rgba(247, 3, 3, 0.867);
+}
+
+.button:active {
+	background: #fff;
+	color: #000;
+}
+
+.stopwatch {
+	font-size: 60px;
+	margin: 30px;
+	color: papayawhip;
+}
